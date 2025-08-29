@@ -1,6 +1,6 @@
-train: data\car_data\train
-val: data\car_data\valid
-test: data\car_data\test
+train: train
+val: valid
+test: test
 
 nc: 1
 names: ['car']
